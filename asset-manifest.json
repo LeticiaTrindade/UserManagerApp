@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/UserManagerApp/static/css/main.a354079d.css",
-    "main.js": "/UserManagerApp/static/js/main.34132343.js",
+    "main.css": "/UserManagerApp/static/css/main.a9ee0df4.css",
+    "main.js": "/UserManagerApp/static/js/main.7348cbc7.js",
     "static/js/787.83fdf458.chunk.js": "/UserManagerApp/static/js/787.83fdf458.chunk.js",
     "static/media/background.png": "/UserManagerApp/static/media/background.54d42a55dd2ecc16d667.png",
     "static/media/birthday-icon.svg": "/UserManagerApp/static/media/birthday-icon.0c54d6e27ff0f87e727a8807d9e4b02a.svg",
     "index.html": "/UserManagerApp/index.html",
     "static/media/password-icon.svg": "/UserManagerApp/static/media/password-icon.e2bdde1c3dbfc04803f2d3e578f99caa.svg",
     "static/media/user-icon.svg": "/UserManagerApp/static/media/user-icon.a599ef7cb57220dc17c740ca7d4605e7.svg",
-    "main.a354079d.css.map": "/UserManagerApp/static/css/main.a354079d.css.map",
-    "main.34132343.js.map": "/UserManagerApp/static/js/main.34132343.js.map",
+    "main.a9ee0df4.css.map": "/UserManagerApp/static/css/main.a9ee0df4.css.map",
+    "main.7348cbc7.js.map": "/UserManagerApp/static/js/main.7348cbc7.js.map",
     "787.83fdf458.chunk.js.map": "/UserManagerApp/static/js/787.83fdf458.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a354079d.css",
-    "static/js/main.34132343.js"
+    "static/css/main.a9ee0df4.css",
+    "static/js/main.7348cbc7.js"
   ]
 }
